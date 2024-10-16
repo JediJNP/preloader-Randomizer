@@ -17,7 +17,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://JediJNP.github.io/Preloader-for-FF-Apps/preloader_Virt.svg';
+svgImage.src = 'https://JediJNP.github.io/preloader-Randomizer/preloader_Virt.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
